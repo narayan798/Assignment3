@@ -1,0 +1,7 @@
+C:\Users\navee\source\repos\ques 7\ques 7\obj\Debug\ques 7.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\ques 7\ques 7\obj\Debug\ques 7.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ques 7\ques 7\bin\Debug\ques 7.exe.config
+C:\Users\navee\source\repos\ques 7\ques 7\bin\Debug\ques 7.exe
+C:\Users\navee\source\repos\ques 7\ques 7\bin\Debug\ques 7.pdb
+C:\Users\navee\source\repos\ques 7\ques 7\obj\Debug\ques 7.exe
+C:\Users\navee\source\repos\ques 7\ques 7\obj\Debug\ques 7.pdb
